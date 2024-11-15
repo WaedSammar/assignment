@@ -1,0 +1,28 @@
+/* Task 1 */
+body {
+  margin: 0;
+  font-family: sans-serif;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background-color: #f2e8cf;
+}
+h1 {
+  text-align: center;
+}
+ul {
+  list-style-type: none;
+  padding: 10px;
+  margin: 0;
+  border: 1px solid #a7b6b0;
+  width: 200px;
+  text-align: center;
+  background-color: #dad7cd;
+}
+ul li {
+  font-weight: bold;
+  color: rgb(32, 190, 32);
+  margin: 5px 0;
+}
